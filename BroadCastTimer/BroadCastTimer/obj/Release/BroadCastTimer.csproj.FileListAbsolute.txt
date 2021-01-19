@@ -1,0 +1,9 @@
+D:\Project\BroadCastTimer\BroadCastTimer\bin\Release\BroadCastTimer.exe.config
+D:\Project\BroadCastTimer\BroadCastTimer\bin\Release\BroadCastTimer.exe
+D:\Project\BroadCastTimer\BroadCastTimer\bin\Release\BroadCastTimer.pdb
+D:\Project\BroadCastTimer\BroadCastTimer\obj\Release\BroadCastTimer.csprojAssemblyReference.cache
+D:\Project\BroadCastTimer\BroadCastTimer\obj\Release\BroadCastTimer.Form1.resources
+D:\Project\BroadCastTimer\BroadCastTimer\obj\Release\BroadCastTimer.Properties.Resources.resources
+D:\Project\BroadCastTimer\BroadCastTimer\obj\Release\BroadCastTimer.csproj.GenerateResource.cache
+D:\Project\BroadCastTimer\BroadCastTimer\obj\Release\BroadCastTimer.exe
+D:\Project\BroadCastTimer\BroadCastTimer\obj\Release\BroadCastTimer.pdb
